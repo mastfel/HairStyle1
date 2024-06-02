@@ -171,3 +171,10 @@ p .button{
 h3{
     text-align: center;
 }
+.conditions{
+    text-align: justify;
+    margin: 15px;
+}
+p{
+    text-align: justify;
+}
