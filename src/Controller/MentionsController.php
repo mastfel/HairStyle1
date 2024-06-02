@@ -16,7 +16,7 @@ class MentionsController extends AbstractController
         ]);
     }
 
-    #[Route('/conditions', name:'app_conditons')]
+    #[Route('/conditions', name:'app_conditions')]
     
         public function condition():Response
     {
