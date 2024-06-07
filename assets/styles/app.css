@@ -181,7 +181,8 @@ label{
     font-size: 1.3em;
 }
 .btn{
-    background-color: #e1e189 !important
+    background-color: #e1e189 !important;
+    margin-bottom: 10px;
 }
 
   
